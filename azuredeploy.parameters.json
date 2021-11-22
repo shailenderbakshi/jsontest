@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageaccountname":{
-            "value": "storshail31"
+            "value": "storshail41"
         },
         "storagesku":{
             "value": "Standard_LRS"
